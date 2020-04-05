@@ -1,3 +1,3 @@
-module github.com/ashu8912/go_learning
+module github.com/ashu8912/structAndInterface
 
 go 1.14
